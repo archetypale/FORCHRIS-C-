@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28917.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rat Controller", "F:\Rat Controller\Rat Controller\Rat Controller.csproj", "{69A452DB-DE34-43ED-97E8-89A439491D0C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{71C91850-CC25-4159-92A3-8839523BCD40}"
+	ProjectSection(SolutionItems) = preProject
+		Program.cs = Program.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69A452DB-DE34-43ED-97E8-89A439491D0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69A452DB-DE34-43ED-97E8-89A439491D0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69A452DB-DE34-43ED-97E8-89A439491D0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69A452DB-DE34-43ED-97E8-89A439491D0C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1DDFA9F-562A-49C8-B079-D62BD3F49465}
+	EndGlobalSection
+EndGlobal
